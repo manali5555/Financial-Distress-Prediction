@@ -12,6 +12,8 @@ This R-based project utilizes logistic regression to predict financial distress 
 
 ## Installation
 Ensure R is installed on your machine, which you can download from [CRAN](https://cran.r-project.org/). Install the required R packages by running the following command in your R environment:
+```R
+install.packages(c("caretEnsemble", "ROSE", "caret", "tidyr", "magrittr", "DMwR2", "smotefamily", "tidyverse", "DataExplorer", "ggcorrplot", "psych", "dplyr", "randomForest", "pROC", "knitr"))
 
 ## Usage
 Follow these steps to set up and run the project:
